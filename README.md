@@ -3,5 +3,5 @@ javac Solver.java
 
 
 # Run
-java Solver <problemName>
+java Solver problemName
 
